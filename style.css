@@ -1,0 +1,45 @@
+#bg {
+
+background-color: darkcyan;
+height:100px ; 
+color: white;
+font-family: 'Cedarville Cursive', cursive;
+}
+
+#by {
+
+background-color:rgb(248, 240, 207) ;
+
+
+}
+
+#st {
+
+background-color: blueviolet;
+color: white;
+border-radius: 5px;
+width: 60px;
+height: 30;
+font-family: 'Cedarville Cursive', cursive;
+
+}
+
+#footer {
+
+
+    background-color: orange;
+    margin: 0;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Cedarville Cursive', cursive;
+    
+    }
+
+    #md 
+    {
+
+
+        font-family: 'Cedarville Cursive', cursive;
+    }
